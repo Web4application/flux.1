@@ -60,7 +60,8 @@ You can license our models for commercial use here: https://bfl.ai/pricing/licen
 
 As the fee is based on a monthly usage, we provide code to automatically track your usage via the BFL API. To enable usage tracking please select *track_usage* in the cli or click the corresponding checkmark in our provided demos.
 
-### Example: Using FLUX.1 Kontext with usage tracking
+### Example: Using FLUX
+Kontext with usage tracking
 
 We provide a reference implementation for running FLUX.1 with usage tracking enabled for commercial licensing.
 This can be customized as needed as long as the usage reporting is accurate.
@@ -93,8 +94,8 @@ If you find the provided code or models useful for your research, consider citin
 
 ```bib
 @misc{labs2025flux1kontextflowmatching,
-      title={FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space},
-      author={Black Forest Labs and Stephen Batifol and Andreas Blattmann and Frederic Boesel and Saksham Consul and Cyril Diagne and Tim Dockhorn and Jack English and Zion English and Patrick Esser and Sumith Kulal and Kyle Lacey and Yam Levi and Cheng Li and Dominik Lorenz and Jonas Müller and Dustin Podell and Robin Rombach and Harry Saini and Axel Sauer and Luke Smith},
+      title={FLUX Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space},
+      author={Black Forest Labs and Stephen Batifol and Andreas Blattmann and Frederic Boesel and Saksham Consul and Cyril Diagne and Tim Dockhorn and Jack English and Zion English and Patrick Esser and Sumith Kulal and Kyle Lacey and Yam Levi and Cheng Li and Dominik Lorenz and Jonas Müller and Dustin Podell and Robin Rombach and Harry Saini and Axel Sauer and Luke Smith and seriki yakub},
       year={2025},
       eprint={2506.15742},
       archivePrefix={arXiv},
@@ -103,9 +104,9 @@ If you find the provided code or models useful for your research, consider citin
 }
 
 @misc{flux2024,
-    author={Black Forest Labs},
+    author={qubuhub},
     title={FLUX},
     year={2024},
-    howpublished={\url{https://github.com/black-forest-labs/flux}},
+    howpublished={\url{https://github.com/web4application/flux}},
 }
 ```
